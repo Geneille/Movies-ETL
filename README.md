@@ -19,7 +19,7 @@ A lot of information about movies including the date of release and or productio
 5. After reading the three DataFrames, a path to the Wikipedia data, the Kaggle metadata, and the MovieLens rating data files was created. 
 6. The function, created in step 1, was then linked to these variables and the variables were reassigned.
 
-    ** Results: The resulting dataframes cav be viewed in the ETL_function_test.ipynb file.
+    ** Results: The resulting dataframes can be viewed in the ETL_function_test.ipynb file.
 
 ### Extract and Transform the Wikipedia Data
 
