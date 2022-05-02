@@ -62,6 +62,7 @@ The code in the previous subsection was modified with the following steps to com
 2. A code that prints out the elapsed time to import each row was written.
 3. After the program was completed, a query was written on the PostgreSQL database to retrieve the number of rows for the movies and ratings tables
 
-After you confirm that the movies table has 6,052 rows and the ratings table has 26,024,289 rows, take a screenshot of each query and the output, then save them as movies_query.png and ratings_query.png, respectively.
 
-    **Results - The full code is displayed in the ETL_create_database.ipynb file, and the query results displaying the number of rows in the two tables are displayed as movies_query.png and ratings_query.png files in the Resources folder.
+## Results
+
+The full code is displayed in the ETL_create_database.ipynb file, and the query results displaying the number of rows in the two tables are displayed as movies_query.png and ratings_query.png files in the Resources folder.
