@@ -2,7 +2,7 @@
 
 ## Overview and Objectives
 
-A lot of information about movies including the date of release and or production is stored in Wikipedia. This information can be extracted and stored as a JSON file. Presented with a JSON file containing information scraped from Wikipedia about different (genres of) movies from 1990 to 2018, the main objective of this project was to create a data pipeline to extract, transfrom and load (ETL) the data. In other words, the main aim of this project was to create one function that takes in three files — Wikipedia data, Kaggle metadata, and MovieLens rating data — and perform the ETL process by adding the data to a PostgreSQL database. 
+A lot of information about movies can be found online, which can be extracted and stored as a JSON file. Presented with a JSON file containing information scraped from Wikipedia about different movies from 1990 to 2018, the aim of this project was to create a data pipeline to extract, transfrom and load (ETL) the data. In addition, the aim of this project was to create one function that takes in three files — Wikipedia data, Kaggle metadata, and MovieLens rating data — and perform the ETL process by adding the data to a PostgreSQL database. 
 
 ## Resources
 * Python 3.7.6, JupyterLab 2.26
